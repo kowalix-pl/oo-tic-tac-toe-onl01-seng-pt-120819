@@ -6,4 +6,4 @@ class TicTacToe
   def initialize(name)
   end
 end
-T
+play = Tictactoe.new
