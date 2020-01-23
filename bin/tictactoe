@@ -2,7 +2,7 @@
 require 'pry'
 require_relative '../lib/tic_tac_toe.rb'
 
-def 
-
-end 
-tictactoe.new
+class Person
+  def initialize(name)
+  end
+end
